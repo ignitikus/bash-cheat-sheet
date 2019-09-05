@@ -3,8 +3,6 @@
 * `ls` - presents the `l`i`s`t of files in directory
     * `-a` - **modifier** lists all files and directories in the working directory
 ---
-* `pwd` - `p`rint `w`orking `d`irectory
----
 * `~` - home directory  
 ---
 * `mkdir` - to `m`a`k`e `dir`ectory
@@ -24,5 +22,5 @@
     * a file can be renamed: `mv [target] [new_name]`
 ---
 * `command -v [app name]` - provides location of a program.
-
 ---
+* `pwd` - `p`rint `w`orking `d`irectory
