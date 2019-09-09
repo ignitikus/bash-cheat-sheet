@@ -3,9 +3,10 @@
 * `ls` - presents the `l`i`s`t of files in directory
     * `-a` - **modifier** lists all files and directories in the working directory
 ---
-* `~` - home directory  
+* `mkdir` - to `m`a`k`e `dir`ectories
+  * `-p` - creates a path
 ---
-* `mkdir` - to `m`a`k`e `dir`ectory
+* `touch` - to create files
 ---
 * `rm` - to `r`e`m`ove a file 
     * `-rf` - to remove directory
@@ -19,8 +20,9 @@
 * `mv` - moves files and directories
     * `mv [target] [destination]`
 * tips and tricks:
-    * a file can be renamed: `mv [target] [new_name]`
+ * a file can be renamed: `mv [target] [new_name]`
 ---
 * `command -v [app name]` - provides location of a program.
 ---
 * `pwd` - `p`rint `w`orking `d`irectory
+---
