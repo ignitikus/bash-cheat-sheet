@@ -18,7 +18,7 @@
     * `cd -` - goes to previous directory
 ---
 * `mv` - moves files and directories
-    * `mv [target] [destination]`
+    * `mv [target] [target] [target] [destination]`
 * tips and tricks:
  * a file can be renamed: `mv [target] [new_name]`
 ---
@@ -26,3 +26,8 @@
 ---
 * `pwd` - `p`rint `w`orking `d`irectory
 ---
+* `cp` - `c`o`p`ies files 
+  * `cp [target file] [directory/new name]`
+    * `-r` - copies di`r`ectory
+---
+`man` - open manual for an app
