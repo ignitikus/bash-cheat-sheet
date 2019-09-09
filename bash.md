@@ -3,18 +3,18 @@
 * `ls` - presents the `l`i`s`t of files in directory
     * `-a` - **modifier** lists all files and directories in the working directory
 ---
-* `mkdir` - to `m`a`k`e `dir`ectories
+* `mkdir` - `m`a`k`es `dir`ectories
   * `-p` - creates a path
 ---
-* `touch` - to create files
+* `touch` - creates files
 ---
-* `rm` - to `r`e`m`ove a file 
-    * `-rf` - to remove directory
+* `rm` - `r`e`m`oves a file 
+    * `-rf` - removes directory
 ---
 * `cd` - `c`hanges working `d`irectory
 * tips and tricks:
-    * `cd ..` - to go to parent directory
-    * `cd ~` - to go home
+    * `cd ..` - goes to parent directory
+    * `cd ~` - goes home
     * `cd -` - goes to previous directory
 ---
 * `mv` - moves files and directories
